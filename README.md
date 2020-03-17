@@ -1,17 +1,5 @@
-Prueba para programador Javascript en CV Drin-Tin
+Prueba de Javascript
 =================================================
-
-**Este repositorio y todo su contenido son privados e intransferibles. Nunca
-puedes enviar a terceros o publicar el contenido ni parte del contenido incluso
-después de haberlo modificado.**
-
-Por favor, no hagas un pull request a este repositorio, ya que los pull request
-son visibles para el resto de candidatos y no se pueden borrar del repositorio.
-Puedes hacer un fork o mandarnos el patch después de realizar tus cambios.
-
-
-Esta es una prueba para un programador Javascript para el CV Drin-Tin de 
-[Leadtech](http://leadtech.com).
 
 ## Requisitos ##
 
